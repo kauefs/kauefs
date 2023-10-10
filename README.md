@@ -22,6 +22,10 @@ Here are some ideas to get you started:
 
 <p align=center>👨🏻‍💻</p>
 
+<!--
+Data Science **|** Computer Vision **|** ML **|** AI **|** ☁️ **|** CyberSecurity
+-->
+
 <p aling=center>Venturing in the world of IT, now focusing in the realm of Data Science.</p>
 
 <!--
