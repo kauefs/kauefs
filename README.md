@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 
 ### Data Science Works & Projects:
 
-* [InSide Sydney AirBnB](https://github.com/kauefs/AirBnB)
 * [Criminalidade em São Paulo](https://github.com/kauefs/CriminalidadeSP) (Sao Paulo Criminality)
+* [InSide Sydney AirBnB](https://github.com/kauefs/AirBnB)
