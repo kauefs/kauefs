@@ -22,7 +22,13 @@ Here are some ideas to get you started:
 
 <p align=center>👨🏻‍💻</p>
 
-<p aling=center>Started venturing in the world of IT, now focusing in the realm of Data Science.</p>
+<p aling=center>Venturing in the world of IT, now focusing in the realm of Data Science.</p>
+
+<!--
+### Skills
+
+<p><a href=https://www.python.org/ target=_blank rel=noreferrer><img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg width=35 height=35 alt=Python/></p>
+-->
 
 ### Data Science Works & Projects:
 
