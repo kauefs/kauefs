@@ -41,4 +41,4 @@ Data Science **|** Computer Vision **|** ML **|** AI **|** ☁️ **|** CyberSec
 ### Data Science Works & Projects:
 
 * [Criminalidade em São Paulo](https://github.com/kauefs/CriminalidadeSP) (Sao Paulo Criminality)
-* [InSide Sydney AirBnB](https://github.com/kauefs/AirBnB)
+* [InSide SydNey AirBnB](https://github.com/kauefs/AirBnB)
