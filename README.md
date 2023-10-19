@@ -40,5 +40,6 @@ Data Science **|** Computer Vision **|** ML **|** AI **|** ☁️ **|** CyberSec
 
 ### Works & Projects:
 
+* [COVID](https://github.com/kauefs/COVID)
 * [Criminalidade em São Paulo](https://github.com/kauefs/CriminalidadeSP) (Sao Paulo Criminality)
 * [InSide SydNey AirBnB](https://github.com/kauefs/AirBnB)
