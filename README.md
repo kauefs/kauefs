@@ -34,4 +34,4 @@ Data Science **|** Computer Vision **|** ML **|** AI **|** ☁️ **|** CyberSec
 * [COVID-19](https://github.com/kauefs/COVID)
 * [Criminality in Sao Paulo](https://criminality.streamlit.app/)
 * [Criminalidade em São Paulo](https://github.com/kauefs/CriminalidadeSP)
-* [InSide SydNey AirBnB](https://github.com/kauefs/AirBnB)
+* [Inside Sydney Airbnb](https://github.com/kauefs/AirBnB)
