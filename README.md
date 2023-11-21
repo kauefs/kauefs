@@ -32,6 +32,6 @@ Data Science **|** Computer Vision **|** ML **|** AI **|** ☁️ **|** CyberSec
 
 * [The Case of COVID-19 in Brazil](https://covid19br.streamlit.app)
 * [COVID-19](https://github.com/kauefs/COVID)
-* [Sao Paulo Criminality](https://criminality.streamlit.app/)
+* [Criminality in Sao Paulo](https://criminality.streamlit.app/)
 * [Criminalidade em São Paulo](https://github.com/kauefs/CriminalidadeSP)
 * [InSide SydNey AirBnB](https://github.com/kauefs/AirBnB)
