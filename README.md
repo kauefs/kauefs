@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: …
 - ⚡ Fun fact: …
 -->
-<img align=right src='https://github-readme-stats.vercel.app/api/top-langs/?username=kauefs&hide=html&vue&theme=dark' alt=stats                   />
+<img align=right src='https://github-readme-stats.vercel.app/api/top-langs/?username=kauefs&count_private=true&layout=compact&hide=html&theme=dark' alt=langs />
 
 <a href='https://github.com/kauefs'           alt='GitHub'  ><img src='https://img.shields.io/badge/work%20in%20progress-FF103F'                  /></a>
 <a href='https://github.com/kauefs'           alt='GitHub'  ><img src='https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white'    />
@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 Data Science **|** Computer Vision **|** ML **|** AI **|** ☁️ **|** CyberSecurity **|** 
 
 <p align=center><a href=https://www.python.org/ target=_blank rel=noreferrer><img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg width=35 height=35 alt=Python/></p>
+
+<img align=right src='https://github-readme-stats.vercel.app/api/?username=kauefs&count_private=true&layout=compact&show_icons=true&theme=dark' alt=stats />
 
 ### Works & Projects:
 
