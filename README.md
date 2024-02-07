@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 <img align=right src='https://github-readme-stats.vercel.app/api/top-langs/?username=kauefs&count_private=true&layout=compact&hide=html&theme=dark' alt=langs />
 
-<a href='https://github.com/kauefs'           alt='GitHub'  ><img src='https://img.shields.io/badge/work%20in%20progress-FF103F'                  /></a>
+<a href='https://github.com/kauefs'           alt='GitHub'  ><img src='https://img.shields.io/badge/Work%20in%20Progress-FF103F'                  /></a>
 <a href='https://github.com/kauefs'           alt='GitHub'  ><img src='https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white'    />
 </a>
 <a href='https://www.linkedin.com/in/kauefs/' alt='LinkedIn'><img src='https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white'/></a>
