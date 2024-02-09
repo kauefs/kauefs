@@ -34,7 +34,7 @@ Data Science **|** Computer Vision **|** ML **|** AI **|** ☁️ **|** CyberSec
 
 * [Accidents in SP](https://accidentssp.streamlit.app/)
 * [In Search of a Warming!](https://warming.streamlit.app/)
-* [The Case of COVID-19 in Brazil](https://covid19br.streamlit.app/)
+* [COVID-19 in Brazil](https://covid19br.streamlit.app/)
 * [COVID-19](https://github.com/kauefs/COVID/)
 * [Criminality in Sao Paulo](https://criminality.streamlit.app/)
 * [Criminalidade em São Paulo](https://github.com/kauefs/CriminalidadeSP/)
