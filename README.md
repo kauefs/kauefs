@@ -32,6 +32,7 @@ Data Science **|** Computer Vision **|** ML **|** AI **|** ☁️ **|** CyberSec
 
 ### Works & Projects:
 
+* [Stocks](https://sto-cks.streamlit.app/)
 * [Accidents in SP](https://accidentssp.streamlit.app/)
 * [In Search of a Warming!](https://warming.streamlit.app/)
 * [COVID-19 in Brazil](https://covid19br.streamlit.app/)
