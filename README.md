@@ -13,10 +13,13 @@ Here are some ideas to get you started:
 -->
 <img align=right src='https://github-readme-stats.vercel.app/api/top-langs/?username=kauefs&count_private=true&layout=compact&hide=html&theme=dark' alt=langs />
 
-<a href='https://github.com/kauefs'           alt='GitHub'  ><img src='https://img.shields.io/badge/Work%20in%20Progress-FF103F'                  /></a>
-<a href='https://github.com/kauefs'           alt='GitHub'  ><img src='https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white'    />
+<!--
+<a href='https://github.com/kauefs'           alt='GitHub'        ><img src='https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white'    />
 </a>
-<a href='https://www.linkedin.com/in/kauefs/' alt='LinkedIn'><img src='https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white'/></a>
+-->
+
+<a href='https://github.com/kauefs'           alt='WorkInProgress'><img src='https://img.shields.io/badge/Work%20in%20Progress-FF103F'                  /></a>
+<a href='https://www.linkedin.com/in/kauefs/' alt='LinkedIn'      ><img src='https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white'/></a>
 [![](https://img.shields.io/badge/Python-3-blue.svg)](https://www.python.org/)
 [![GPLv3 license](https://img.shields.io/badge/License-Apache_2.0-FF4500.svg)](http://perso.crans.org/besson/LICENSE.html)
 [![contributions welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](https://github.com/kauefs/portfolio/issues)
@@ -35,8 +38,7 @@ Data Science **|** Computer Vision **|** ML **|** AI **|** ☁️ **|** CyberSec
 * [Stocks](https://sto-cks.streamlit.app/)
 * [Accidents in SP](https://accidentssp.streamlit.app/)
 * [In Search of a Warming!](https://warming.streamlit.app/)
-* [COVID-19 in Brazil](https://covid19br.streamlit.app/)
-* [COVID-19](https://github.com/kauefs/COVID/)
-* [Criminality in Sao Paulo](https://criminality.streamlit.app/)
-* [Criminalidade em São Paulo](https://github.com/kauefs/CriminalidadeSP/)
-* [Inside Sydney Airbnb](https://github.com/kauefs/AirBnB/)
+* [COVID19 in Brazil](https://covid19br.streamlit.app/)
+* [COVID19](https://covid19charts.streamlit.app/)
+* [Sao Paulo Criminality](https://criminality.streamlit.app/)
+* [Inside Sydney Airbnb](https://sydney.streamlit.app/)
