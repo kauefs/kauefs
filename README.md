@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 [![contributions welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](https://github.com/kauefs/portfolio/issues)
 <!--[![author](https://img.shields.io/badge/Author-KAUE-FF4500.svg)](https://medium.com/@kauefs)-->
 
-![DatAVisi0n](https://github.com/kauefs/StreamLit/blob/1d052da154ace115d837e532f118f28890663cfe/img/DataVision3.png)
+![ƊⱭȾɅViƧi🧿Ƞ](https://github.com/kauefs/StreamLit/blob/1d052da154ace115d837e532f118f28890663cfe/img/DataVision3.png)
 
 <p align=center>ƊⱭȾɅViƧi🧿Ƞ</p>
 
