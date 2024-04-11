@@ -10,20 +10,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: …
 - 😄 Pronouns: …
 - ⚡ Fun fact: …
--->
-<img align=right src='https://github-readme-stats.vercel.app/api/top-langs/?username=kauefs&count_private=true&layout=compact&hide=html&theme=dark' alt=langs />
-
-<!--
-<a href='https://github.com/kauefs'           alt='GitHub'        ><img src='https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white'    />
-</a>
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kauefs&theme=blue-green)]
+[![Stats](https://github-readme-stats.vercel.app/api?username=kauefs&theme=blue-green)]
 -->
 
-<a href='https://github.com/kauefs'           alt='WorkInProgress'><img src='https://img.shields.io/badge/Work%20in%20Progress-FF103F'                  /></a>
-<a href='https://www.linkedin.com/in/kauefs/' alt='LinkedIn'      ><img src='https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white'/></a>
-[![](https://img.shields.io/badge/Python-3-blue.svg)](https://www.python.org/)
-[![GPLv3 license](https://img.shields.io/badge/License-Apache_2.0-FF4500.svg)](http://perso.crans.org/besson/LICENSE.html)
-[![contributions welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](https://github.com/kauefs/portfolio/issues)
-<!--[![author](https://img.shields.io/badge/Author-KAUE-FF4500.svg)](https://medium.com/@kauefs)-->
+<img align=right src='https://github-readme-stats.vercel.app/api/top-langs/?username=kauefs&count_private=true&layout=compact&hide=html&theme=blue-green' alt=langs />
+
+[![Work in Progress](     https://img.shields.io/badge/-FF103F?label=Work%20in%20Progress&labelColor=FF103F&color=FF103F)](    https://github.com/kauefs/)
+[![Medium](               https://img.shields.io/badge/-000000?logo=medium&logoColor=FFFFFF)](                                 https://medium.com/@kauefs)
+[![LinkedIn](             https://img.shields.io/badge/-0077B5?logo=linkedin&logoColor=FFFFFF)](                         https://www.linkedin.com/in/kauefs/)
+[![Python](               https://img.shields.io/badge/-3-4584B6?logo=python&logoColor=FFDE57&labelColor=4584B6&color=646464)](https://www.python.org/)
+[![License](              https://img.shields.io/badge/Apache_2.0-D22128?style=flat&logo=apache&logoColor=CB2138&label=License&labelColor=6D6E71&color=D22128)](https://www.apache.org/licenses/LICENSE-2.0)
+[![Contributions Welcome](https://img.shields.io/badge/Welcome-4CAF50?label=Contributions&labelColor=&color=4CAF50)](                                                                                                                               https://github.com/kauefs/portfolio/issues)
 
 ![ƊⱭȾɅViƧi🧿Ƞ](https://raw.githubusercontent.com/kauefs/StreamLit/%40/img/DataVision3.png)
 
@@ -33,7 +31,7 @@ Here are some ideas to get you started:
 
 <p align=center><a href=https://www.python.org/ target=_blank rel=noreferrer><img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg width=35 height=35 alt=Python/></p>
 
-<img align=right src='https://github-readme-stats.vercel.app/api/?username=kauefs&count_private=true&layout=compact&show_icons=true&theme=dark' alt=stats />
+<img align=right src='https://github-readme-stats.vercel.app/api/?username=kauefs&count_private=true&layout=compact&show_icons=true&theme=blue-green' alt=stats />
 
 ### Works & Projects:
 
