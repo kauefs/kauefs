@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ![ƊⱭȾɅViƧi🧿Ƞ](https://raw.githubusercontent.com/kauefs/StreamLit/%40/img/DataVision3.png)
 
-<p align=center>ƊⱭȾɅViƧi🧿Ƞ</p>
+<H1 align=center>ƊⱭȾɅViƧi🧿Ƞ</H1>
 
 <p align=center>Data Science <b>|</b> Computer Vision <b>|</b> ML <b>|</b> AI <b>|</b> ☁️ <b>|</b> CyberSecurity <b>|</b> 👨🏻‍💻</p>
 
