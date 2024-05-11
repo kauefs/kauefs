@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kauefs&theme=blue-green)]
 [![Stats](https://github-readme-stats.vercel.app/api?username=kauefs&theme=blue-green)]
 -->
+# <p align=center><font color=#F0F0F0 font-family=Georgia><ins>ƊⱭȾɅViƧi🧿Ƞ</ins></font></p>
 
 <img align=right src='https://github-readme-stats.vercel.app/api/top-langs/?username=kauefs&count_private=true&layout=compact&hide=html&theme=blue-green' alt=langs />
 
@@ -24,9 +25,6 @@ Here are some ideas to get you started:
 [![Contributions Welcome](https://img.shields.io/badge/Welcome-4CAF50?label=Contributions&labelColor=&color=4CAF50)](                                                                                                                               https://github.com/kauefs/portfolio/issues)
 
 ![ƊⱭȾɅViƧi🧿Ƞ](https://raw.githubusercontent.com/kauefs/StreamLit/%40/img/DataVision3.png)
-
-<H1 align=center><font color=#F0F0F0 font-family=Georgia>
-<ins><strong>ƊⱭȾɅViƧi🧿Ƞ</strong></ins></font></H1>
 
 <p align=center>Data Science <b>|</b> Computer Vision <b>|</b> ML <b>|</b> AI <b>|</b> ☁️ <b>|</b> CyberSecurity <b>|</b> 👨🏻‍💻</p>
 
