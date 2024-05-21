@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kauefs&theme=blue-green)]
 [![Stats](https://github-readme-stats.vercel.app/api?username=kauefs&theme=blue-green)]
 -->
-# <p align=center><font color=#F0F0F0 font-family=Georgia><ins>ƊⱭȾɅViƧi🧿Ƞ</ins></font></p>
+# <p align=center><font color=#F0F0F0 font-family=Georgia><ins>ƊⱭȾɅViƧi&#x1F9FF;Ƞ</ins></font></p>
 
 <img align=right src='https://github-readme-stats.vercel.app/api/top-langs/?username=kauefs&count_private=true&layout=compact&hide=html&theme=blue-green' alt=langs />
 
