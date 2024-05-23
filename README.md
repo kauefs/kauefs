@@ -17,7 +17,11 @@ Here are some ideas to get you started:
 
 <img align=right src='https://github-readme-stats.vercel.app/api/top-langs/?username=kauefs&count_private=true&layout=compact&hide=html&theme=blue-green' alt=langs />
 
+[![ƊⱭȾɅViƧi🧿Ƞ]( https://img.shields.io/badge/ViƧi🧿Ƞ-0065FF?style=plastic&logo=&logoColor=0065FF&label=ƊⱭȾɅ&labelColor=0065FF&color=0065FF)](https://datavision.one/)
+
 [![Work in Progress](     https://img.shields.io/badge/-FF103F?label=Work%20in%20Progress&labelColor=FF103F&color=FF103F)](https://github.com/kauefs/)
+
+
 [![Medium](               https://img.shields.io/badge/-000000?logo=medium&logoColor=FFFFFF)](  https://medium.com/@kauefs)
 [![LinkedIn](             https://img.shields.io/badge/-0077B5?logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/kauefs/)
 [![Python](               https://img.shields.io/badge/-3-4584B6?logo=python&logoColor=FFDE57&labelColor=4584B6&color=646464)](https://www.python.org/)
