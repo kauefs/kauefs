@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 <img align=right src='https://github-readme-stats.vercel.app/api/?username=kauefs&count_private=true&layout=compact&show_icons=true&theme=blue-green' alt=stats />
 
-## <ins>Works & Projects</ins>:
+## <ins>Projects</ins>:
 
 * [DEMO](https://daemon.streamlit.app/)
 * [Uber NYC](https://ubernyc.streamlit.app/)
