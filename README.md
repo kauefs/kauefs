@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 
 ## <ins>Projects</ins>:
 
+* [Vermeer](https://vermeer.vercel.app/)
 * [DEMO](https://daemon.streamlit.app/)
 * [Uber NYC](https://ubernyc.streamlit.app/)
 * [Stocks](https://sto-cks.streamlit.app/)
