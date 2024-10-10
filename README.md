@@ -34,7 +34,13 @@ Here are some ideas to get you started:
 
 <p align=center>Data Science <b>|</b> Computer Vision <b>|</b> ML <b>|</b> AI <b>|</b> ☁️ <b>|</b> CyberSecurity <b>|</b> </p>
 
-<p align=center><a href=https://www.python.org/ target=_blank rel=noreferrer><img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg width=35 height=35 alt=Python/></p>
+<p align=center>
+  <a href=https://www.python.org/       target=_blank rel=noreferrer><img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg width=35 height=35 alt=Python/>
+  <a href=https://www.w3.org/Style/CSS/ target=_blank rel=noreferrer><img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg width=35 height=35 alt=CSS/>
+  <a href=https://www.oracle.com/developer/javascript/ target=_blank rel=noreferrer><img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg width=35 height=35 alt=JavaScript/>
+  <a href=https://html.spec.whatwg.org/ target=_blank rel=noreferrer><img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg width=35 height=35 alt=HTML/>
+  <a href=https://www.r-project.org     target=_blank rel=noreferrer><img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang.svg width=35 height=35 alt=R/>
+</p>
 
 <img align=right src='https://github-readme-stats.vercel.app/api/?username=kauefs&count_private=true&layout=compact&show_icons=true&theme=blue-green' alt=stats />
 
