@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <p align=center>👨🏻‍💻</p>
 
-<p align=center>Data Science <b>|</b> Computer Vision <b>|</b> ML <b>|</b> AI <b>|</b> ☁️ <b>|</b> CyberSecurity <b>|</b> </p>
+<p align=center>Data Science <b>|</b> Computer Vision <b>|</b> ML <b>|</b> AI <b>|</b> ☁️ <!--<b>|</b> CyberSecurity <b>|</b> </p>-->
 
 <p align=center>
   <a href=https://www.python.org/       target=_blank rel=noreferrer><img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg width=35 height=35 alt=Python/>
