@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 
 ## <ins>Projects</ins>:
 
+<!--* [Deep Learning **&** Fashion](https://colab.research.google.com/github/kauefs/ML/blob/main/notebooks/FashionMNIST.ipynb)-->
 * [Vermeer](https://vermeer.vercel.app/)
 * [DEMO](https://daemon.streamlit.app/)
 * [Uber NYC](https://ubernyc.streamlit.app/)
