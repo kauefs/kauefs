@@ -40,6 +40,8 @@ Here are some ideas to get you started:
   <a href=https://www.oracle.com/developer/javascript/ target=_blank rel=noreferrer><img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg width=35 height=35 alt=JavaScript/>
   <a href=https://html.spec.whatwg.org/ target=_blank rel=noreferrer><img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg width=35 height=35 alt=HTML/>
   <a href=https://www.r-project.org     target=_blank rel=noreferrer><img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang.svg width=35 height=35 alt=R/>
+ <br>
+  <a href=https://www.tensorflow.org/   target=_blank rel=noreferrer><img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg width=35 height=35 alt=TensorFlow/>
 </p>
 
 <img align=right src='https://github-readme-stats.vercel.app/api/?username=kauefs&count_private=true&layout=compact&show_icons=true&theme=blue-green' alt=stats />
