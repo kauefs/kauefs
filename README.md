@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 <!--* [Predicting Real Estate Seling Prices](https://colab.research.google.com/github/kauefs/ML/blob/main/notebooks/RealEstate.ipynb)-->
 * [Fake News Classifier](https://colab.research.google.com/github/kauefs/ML/blob/%40/notebooks/FakeNews.ipynb)
-<!--* [Deep Learning **&** Fashion](https://colab.research.google.com/github/kauefs/ML/blob/main/notebooks/FashionMNIST.ipynb)-->
+* [Deep Learning **&** Fashion](https://colab.research.google.com/github/kauefs/ML/blob/%40/notebooks/FashionMNIST.ipynb)
 * [Vermeer](https://vermeer.vercel.app/)
 * [DEMO](https://daemon.streamlit.app/)
 * [Uber NYC](https://ubernyc.streamlit.app/)
