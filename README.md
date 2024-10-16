@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 ## <ins>Projects</ins>:
 
-<!--* [Predicting Real Estate Seling Price](https://colab.research.google.com/github/kauefs/ML/blob/main/notebooks/RealEstate.ipynb)-->
+<!--* [Predicting Real Estate Seling Prices](https://colab.research.google.com/github/kauefs/ML/blob/main/notebooks/RealEstate.ipynb)-->
 * [Fake News Classifier](https://colab.research.google.com/github/kauefs/ML/blob/%40/notebooks/FakeNews.ipynb)
 <!--* [Deep Learning **&** Fashion](https://colab.research.google.com/github/kauefs/ML/blob/main/notebooks/FashionMNIST.ipynb)-->
 * [Vermeer](https://vermeer.vercel.app/)
