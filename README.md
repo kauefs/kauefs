@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 ## <ins>Projects</ins>:
 
 <!--* [Predicting Real Estate Seling Prices](https://colab.research.google.com/github/kauefs/ML/blob/main/notebooks/RealEstate.ipynb)-->
-* [Fake News Classifier](https://colab.research.google.com/github/kauefs/ML/blob/%40/notebooks/FakeNews.ipynb)
+* [Fake News        Classifier](https://colab.research.google.com/github/kauefs/ML/blob/%40/notebooks/FakeNews.ipynb)
 * [Deep Learning **&** Fashion](https://colab.research.google.com/github/kauefs/ML/blob/%40/notebooks/FashionMNIST.ipynb)
 * [Vermeer](https://vermeer.vercel.app/)
 * [DEMO](https://daemon.streamlit.app/)
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 * [Stocks](https://sto-cks.streamlit.app/)
 * [Accidents in SP](https://accidentssp.streamlit.app/)
 * [In Search of a Warming!](https://warming.streamlit.app/)
-* [COVID19 in Brazil](https://covid19br.streamlit.app/)
+* [COVID19   in Brazil](https://covid19br.streamlit.app/)
 * [COVID19](https://covid19charts.streamlit.app/)
-* [Sao Paulo Criminality](https://criminality.streamlit.app/)
+* [Sao    Paulo  Criminality](https://criminality.streamlit.app/)
 * [Inside Sydney Airbnb](https://sydney.streamlit.app/)
