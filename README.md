@@ -44,7 +44,7 @@ Here are some ideas to get you started:
   <a href=https://www.tensorflow.org/                    target=_blank rel=noreferrer><img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg width=35  height=35              alt=TensorFlow/>
 </p>
 
-<img align=right src='https://github-readme-stats.vercel.app/api/?username=kauefs&count_private=true&layout=compact&show_icons=true&theme=blue-green&custom_title=GitHub%20Stats' alt=stats/>
+<img align=right src='https://github-readme-stats.vercel.app/api/?username=kauefs&count_private=true&layout=compact&show_icons=true&theme=blue-green&custom_title=Stats' alt=stats/>
 
 ## <ins>Projects</ins>:
 
@@ -63,4 +63,4 @@ Here are some ideas to get you started:
 * [Sao    Paulo  Criminality](https://criminality.streamlit.app/)
 * [Inside Sydney Airbnb](https://sydney.streamlit.app/)
 
-<img src='https://github-readme-activity-graph.vercel.app/graph?username=kauefs&theme=react-dark&custom_title=Contribution%20Graph&line=6595EE&point=6595EE&hide_border=true&radius=16&height=300&grid=false&order=5' alt=graph/>
+<img src='https://github-readme-activity-graph.vercel.app/graph?username=kauefs&theme=react-dark&custom_title=Contribution&line=6595EE&point=6595EE&hide_border=true&radius=16&height=300&grid=false&order=5' alt=graph/>
