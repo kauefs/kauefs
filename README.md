@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 <img align=right src='https://github-readme-stats.vercel.app/api/?username=kauefs&count_private=true&layout=compact&show_icons=true&theme=blue-green&custom_title=Stats' alt=stats/>
 
-## <ins>Projects</ins>:
+## <ins>Projects</ins>
 
 <!--* [Predicting Real Estate Seling Prices](https://colab.research.google.com/github/kauefs/ML/blob/main/notebooks/RealEstate.ipynb)-->
 * [International Tourist Arrivals in Brazil](https://tourismbr.streamlit.app/)
