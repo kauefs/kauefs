@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kauefs&theme=blue-green)]
 [![Stats](https://github-readme-stats.vercel.app/api?username=kauefs&theme=blue-green)]
 -->
-# <p align=center><font color=#F0F0F0 font-family=Georgia><ins>ƊⱭȾɅViƧi&#x1F9FF;Ƞ</ins></font></p>
+# <p align=center><font color=#F0F0F0 font-family=Georgia><ins>ƊⱭȾɅViƧi&#x1F9FF;Ƞ</ins>&trade;</font></p>
 
 <img align=right src='https://github-readme-stats.vercel.app/api/top-langs/?username=kauefs&count_private=true&layout=compact&hide=html&theme=blue-green' alt=langs />
 
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 ## <ins>Projects</ins>
 
-<!--* [Predicting Real Estate Prices           ](https://colab.research.google.com/github/kauefs/ML/blob/main/notebooks/RealEstate.ipynb)-->
+* [Boston Housing                          ](https://colab.research.google.com/github/kauefs/ML/blob/%40/notebooks/BostonHousing.ipynb)
 * [Auto Machine Learning: Time Series      ](https://colab.research.google.com/github/kauefs/ML/blob/%40/notebooks/TimeSeriesAutoML.ipynb)
 * [Auto Machine Learning: Classification   ](https://colab.research.google.com/github/kauefs/ML/blob/%40/notebooks/ClassificationAutoML.ipynb)
 * [Auto Machine Learning: Regression       ](https://colab.research.google.com/github/kauefs/ML/blob/%40/notebooks/RegressionAutoML.ipynb)
