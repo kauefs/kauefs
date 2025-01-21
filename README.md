@@ -47,7 +47,9 @@ Here are some ideas to get you started:
 
 ## <ins>Projects</ins>
 
-<!--* [Predicting Real Estate Seling Prices](https://colab.research.google.com/github/kauefs/ML/blob/main/notebooks/RealEstate.ipynb)-->
+<!--* [Predicting Real Estate Prices           ](https://colab.research.google.com/github/kauefs/ML/blob/main/notebooks/RealEstate.ipynb)-->
+<!--* [Auto Machine Learning: Time Series      ](https://colab.research.google.com/github/kauefs/ML/blob/%40/notebooks/TimeSeriesAutoML.ipynb)-->
+<!--* [Auto Machine Learning: Classification   ](https://colab.research.google.com/github/kauefs/ML/blob/%40/notebooks/ClassificationAutoML.ipynb)-->
 * [Auto Machine Learning: Regression       ](https://colab.research.google.com/github/kauefs/ML/blob/%40/notebooks/RegressionAutoML.ipynb)
 * [PicPostMe                               ](https://picpostme.vercel.app/)
 * [Brazil 🇧🇷 International Tourist Arrivals](https://tourismbr.streamlit.app/)
