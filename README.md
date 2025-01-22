@@ -47,6 +47,10 @@ Here are some ideas to get you started:
 
 ## <ins>Projects</ins>
 
+<!--
+* [Churn Prediction                        ](https://colab.research.google.com/github/kauefs/ML/blob/%40/notebooks/Churn.ipynb)
+* [Credit Card Fraud Detection             ](https://colab.research.google.com/github/kauefs/ML/blob/%40/notebooks/CCFD.ipynb)
+-->
 * [Boston Housing                          ](https://colab.research.google.com/github/kauefs/ML/blob/%40/notebooks/BostonHousing.ipynb)
 * [Auto Machine Learning: Time Series      ](https://colab.research.google.com/github/kauefs/ML/blob/%40/notebooks/TimeSeriesAutoML.ipynb)
 * [Auto Machine Learning: Classification   ](https://colab.research.google.com/github/kauefs/ML/blob/%40/notebooks/ClassificationAutoML.ipynb)
