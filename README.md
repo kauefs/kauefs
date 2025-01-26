@@ -70,4 +70,4 @@ Here are some ideas to get you started:
 * [Sao Paulo Criminality                   ](https://criminality.streamlit.app/)
 * [Inside Sydney Airbnb                    ](https://sydney.streamlit.app/)
 
-<img src='https://github-readme-activity-graph.vercel.app/graph?username=kauefs&theme=react-dark&custom_title=Contributions&line=6595EE&point=6595EE&hide_border=true&radius=16&height=300&grid=false&order=5' alt=graph/>
+<img src='https://github-readme-activity-graph.vercel.app/graph?username=kauefs&theme=react-dark&custom_title=Activity&line=6595EE&point=6595EE&hide_border=true&radius=16&height=300&grid=false&order=5' alt=graph/>
