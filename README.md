@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 # <p align=center><font color=#F0F0F0 font-family=Georgia><ins>ƊⱭȾɅViƧi&#x1F9FF;Ƞ</ins>&trade;</font></p>
 
-<img align=right src='https://github-readme-stats.vercel.app/api/top-langs/?username=kauefs&count_private=true&layout=compact&hide=html&theme=blue-green' alt=langs />
+<img align=right src='https://github-readme-stats.vercel.app/api/top-langs/?username=kauefs&count_private=true&layout=compact&hide=html&theme=blue-green&custom_title=Languages' alt=langs />
 
 [![Work in Progress     ](https://img.shields.io/badge/-FF103F?label=Work%20in%20Progress&labelColor=FF103F)](https://github.com/kauefs/)
 
@@ -70,4 +70,4 @@ Here are some ideas to get you started:
 * [Sao Paulo Criminality                   ](https://criminality.streamlit.app/)
 * [Inside Sydney Airbnb                    ](https://sydney.streamlit.app/)
 
-<img src='https://github-readme-activity-graph.vercel.app/graph?username=kauefs&theme=react-dark&custom_title=Activity&line=6595EE&point=6595EE&hide_border=true&radius=16&height=300&grid=false&order=5' alt=graph/>
+<img src='https://github-readme-activity-graph.vercel.app/graph?username=kauefs&theme=react-dark&custom_title=Activity&line=6595EE&point=6595EE&hide_border=true&radius=16&height=300&grid=false&order=5' alt=activities/>
