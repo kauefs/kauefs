@@ -71,3 +71,11 @@ Here are some ideas to get you started:
 * [Inside Sydney Airbnb                    ](https://sydney.streamlit.app/)
 
 <img src='https://github-readme-activity-graph.vercel.app/graph?username=kauefs&theme=react-dark&custom_title=Activity&line=6595EE&point=6595EE&hide_border=true&radius=16&height=300&grid=false&order=5' alt=activities/>
+
+<div align=center>
+  
+![visitors](https://vbr.nathanchung.dev/badge?page_id=kauefs&lcolor=000000&color=000000&style=for-the-badge&logo=Github&logoColor=FFFFFF&hit=false)
+
+<p><b>Visitors</b></p>  
+<img src=https://profile-counter.glitch.me/{kauefs}/count.svg/>
+</div>
