@@ -76,6 +76,4 @@ Here are some ideas to get you started:
   
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=kauefs&lcolor=000000&color=000000&style=plastic&logo=Github&logoColor=FFFFFF&hit=false)
 
-<p><b>Visitors</b></p>  
-<img    src=https://profile-counter.glitch.me/{kauefs}/count.svg/>
 </div>
