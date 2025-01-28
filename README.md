@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 <img align=right src='https://github-readme-stats.vercel.app/api/?username=kauefs&count_private=true&layout=compact&show_icons=true&theme=blue-green&custom_title=Stats' alt=stats/>
 
-## <ins>Projects</ins>
+## <b>Projects</b>
 
 <!--
 * [Churn Prediction                        ](https://colab.research.google.com/github/kauefs/ML/blob/%40/notebooks/Churn.ipynb)
@@ -77,5 +77,5 @@ Here are some ideas to get you started:
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=kauefs&lcolor=000000&color=000000&style=for-the-badge&logo=Github&logoColor=FFFFFF&hit=false)
 
 <p><b>Visitors</b></p>  
-<img src=https://profile-counter.glitch.me/{kauefs}/count.svg/>
+<img    src=https://profile-counter.glitch.me/{kauefs}/count.svg/>
 </div>
