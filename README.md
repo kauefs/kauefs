@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 [![Work in Progress     ](https://img.shields.io/badge/-FF103F?label=Work%20in%20Progress&labelColor=FF103F)](https://github.com/kauefs/)
 
-[![ƊⱭȾɅViƧi🧿Ƞ         ](https://img.shields.io/badge/ƊⱭȾɅViƧi&#x1F9FF;Ƞ&trade;-0065FF?style=plastic)](https://datavision.one/)
+[![ƊⱭȾɅViƧi🧿Ƞ         ](https://img.shields.io/badge/ƊⱭȾɅViƧi🧿Ƞ&trade;-0065FF?style=plastic&logoColor=0065FF&label=&copy;2025&labelColor=0065FF)](https://datavision.one/)
 
 [![Medium               ](https://img.shields.io/badge/-000000?logo=medium&logoColor=FFFFFF)](  https://medium.com/@kauefs)
 [![LinkedIn             ](https://img.shields.io/badge/-2867B2?logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/kauefs/)
