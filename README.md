@@ -43,7 +43,7 @@ Here are some ideas to get you started:
   <a href=https://www.tensorflow.org/                    target=_blank rel=noreferrer><img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg width=35  height=35              alt=TensorFlow/>
 </p>
 
-<img align=right src='https://github-readme-stats.vercel.app/api/?username=kauefs&count_private=true&layout=compact&show_icons=true&theme=blue-green&custom_title=Stats' alt=stats/>
+<img align=right src='https://github-readme-stats.vercel.app/api/?username=kauefs&count_private=true&layout=compact&show_icons=true&theme=blue-green&custom_title=Stats&rank_icon=github' alt=stats/>
 
 ## <b>Projects</b>
 
