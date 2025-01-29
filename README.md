@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 # <p align=center><font color=#F0F0F0 font-family=Georgia><ins>ƊⱭȾɅViƧi&#x1F9FF;Ƞ</ins>&trade;</font></p>
 
-<img align=right src='https://github-readme-stats.vercel.app/api/top-langs/?username=kauefs&count_private=true&layout=compact&hide=html&theme=blue-green&custom_title=Languages' alt=langs />
+<img align=right alt=langs src='https://github-readme-stats.vercel.app/api/top-langs/?username=kauefs&count_private=true&layout=compact&hide=html&theme=blue-green&custom_title=Languages' />
 
 [![Work in Progress     ](https://img.shields.io/badge/Progress-FF103F?logo=icloud&logoColor=FFFFFF&label=Work%20in&labelColor=6D6E71)](https://github.com/kauefs/portfolio/issues)
 <br>
@@ -27,8 +27,10 @@ Here are some ideas to get you started:
 
 ![ƊⱭȾɅViƧi🧿Ƞ          ](https://raw.githubusercontent.com/kauefs/StreamLit/%40/img/DataVision3.png)
 
-<p align=center>👨🏻‍💻</p>
-
+<div align=center>
+<img   alt='computer illustration' src=https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png>
+</div>
+<!--<p align=center>👨🏻‍💻</p>-->
 <p align=center>DS <b>|</b> CV <b>|</b> ML <b>|</b> AI <b>|</b> ☁️ <!--<b>|</b> CyberSecurity <b>|</b> </p>-->
 
 <p align=center>
