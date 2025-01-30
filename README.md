@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 -->
 # <p align=center><font color=#F0F0F0 font-family=Georgia><ins>ƊⱭȾɅViƧi&#x1F9FF;Ƞ</ins>&trade;</font></p>
 
+<div align=center>
+    <img src='https://capsule-render.vercel.app/api?type=waving&color=0065FF&height=100&section=head' width=100%/>
+<div>
+
 <img align=right alt=langs src='https://github-readme-stats.vercel.app/api/top-langs/?username=kauefs&count_private=true&layout=compact&hide=html&theme=blue-green&custom_title=Languages' />
 
 [![Work in Progress     ](https://img.shields.io/badge/Progress-FF103F?logo=icloud&logoColor=FFFFFF&label=Work%20in&labelColor=6D6E71)](https://github.com/kauefs/portfolio/issues)
@@ -81,5 +85,7 @@ Here are some ideas to get you started:
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=kauefs&lcolor=000000&color=000000&style=plastic&logo=Github&logoColor=FFFFFF&hit=false)
 
 [![ƊⱭȾɅViƧi🧿Ƞ         ](https://img.shields.io/badge/ƊⱭȾɅViƧi🧿Ƞ&trade;-0065FF?style=plastic&logoColor=0065FF&label=&copy;2025&labelColor=0065FF)](https://datavision.one/)
+
+<!--<img src='https://capsule-render.vercel.app/api?type=waving&color=0065FF&height=100&section=footer' width=100%/>-->
 
 </div>
