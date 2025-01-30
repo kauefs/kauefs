@@ -60,17 +60,19 @@ Here are some ideas to get you started:
 
 **StreamLit DashBoards**
 * [Brazil 🇧🇷 International Tourist Arrivals](https://tourismbr.streamlit.app/)
+* [In Search of a Warming!                 ](https://warming.streamlit.app/)
+* [COVID19 in Brazil                   ](https://covid19br.streamlit.app/)
+* [COVID19                                 ](https://covid19charts.streamlit.app/)
+* [Inside Sydney Airbnb                    ](https://sydney.streamlit.app/)
+* [Stocks                                  ](https://sto-cks.streamlit.app/)
+* [Uber NYC                                ](https://ubernyc.streamlit.app/)
+* [Accidents in SP                       ](https://accidentssp.streamlit.app/)
+* [Sao Paulo Criminality                   ](https://criminality.streamlit.app/)
+* [DEMO                                    ](https://daemon.streamlit.app/)
+
+**Web Pages ProtoTypes**
 * [PicPostMe                               ](https://picpostme.vercel.app/)
 * [Vermeer                                 ](https://vermeer.vercel.app/)
-* [DEMO                                    ](https://daemon.streamlit.app/)
-* [Uber NYC                                ](https://ubernyc.streamlit.app/)
-* [Stocks                                  ](https://sto-cks.streamlit.app/)
-* [Accidents in   SP                       ](https://accidentssp.streamlit.app/)
-* [In Search of a Warming!                 ](https://warming.streamlit.app/)
-* [COVID19   in   Brazil                   ](https://covid19br.streamlit.app/)
-* [COVID19                                 ](https://covid19charts.streamlit.app/)
-* [Sao Paulo Criminality                   ](https://criminality.streamlit.app/)
-* [Inside Sydney Airbnb                    ](https://sydney.streamlit.app/)
 
 <img src='https://github-readme-activity-graph.vercel.app/graph?username=kauefs&theme=react-dark&custom_title=Activity&line=6595EE&point=6595EE&hide_border=true&radius=16&height=300&grid=false&order=5' alt=activities/>
 
