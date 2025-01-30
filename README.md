@@ -48,6 +48,7 @@ Here are some ideas to get you started:
 ## <b>Projects</b>
 
 <!--*-->
+**Colab Jupyter NoteBooks**
 * [Churn Prediction                        ](https://colab.research.google.com/github/kauefs/ML/blob/%40/notebooks/Churn.ipynb)
 * [Credit Card Fraud Detection (CCFD)      ](https://colab.research.google.com/github/kauefs/ML/blob/%40/notebooks/CCFD.ipynb)
 * [Boston Housing                          ](https://colab.research.google.com/github/kauefs/ML/blob/%40/notebooks/BostonHousing.ipynb)
@@ -56,6 +57,8 @@ Here are some ideas to get you started:
 * [Auto Machine Learning: Regression       ](https://colab.research.google.com/github/kauefs/ML/blob/%40/notebooks/RegressionAutoML.ipynb)
 * [Fake News        Classifier             ](https://colab.research.google.com/github/kauefs/ML/blob/%40/notebooks/FakeNews.ipynb)
 * [Deep Learning **&** Fashion             ](https://colab.research.google.com/github/kauefs/ML/blob/%40/notebooks/FashionMNIST.ipynb)
+
+**StreamLit DashBoards**
 * [Brazil 🇧🇷 International Tourist Arrivals](https://tourismbr.streamlit.app/)
 * [PicPostMe                               ](https://picpostme.vercel.app/)
 * [Vermeer                                 ](https://vermeer.vercel.app/)
