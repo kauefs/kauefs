@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align=center>
     <img src='https://capsule-render.vercel.app/api?type=waving&color=0065FF&height=100&section=head' width=100%/>
-<div>
+</div>
 
 <img align=right alt=langs src='https://github-readme-stats.vercel.app/api/top-langs/?username=kauefs&count_private=true&layout=compact&hide=html&theme=blue-green&custom_title=Languages' />
 
