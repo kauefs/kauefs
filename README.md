@@ -48,13 +48,7 @@ Here are some ideas to get you started:
     <a href=https://html.spec.whatwg.org/                target=_blank rel=noreferrer><img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg             width=35  height=35       alt=HTML/>
     <a href=https://react.dev/                           target=_blank rel=noreferrer><img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg             width=35  height=35       alt=ReAct/>
 </p>
-<!--
-<div>
-<p align=center>
-    <a href=https://skillicons.dev/>
-        <img src='https://skillicons.dev/icons?i=python,vscode,r,tensorflow,html,css,js,react,'/></a></p>
-</div>
--->
+
 <img align=right src='https://github-readme-stats.vercel.app/api/?username=kauefs&count_private=true&layout=compact&show_icons=true&theme=blue-green&custom_title=Stats&rank_icon=github' alt=stats/>
 
 ## <b>Projects</b>
