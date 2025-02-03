@@ -38,13 +38,14 @@ Here are some ideas to get you started:
 <p align=center>👨🏻‍💻 <b>|</b> DS <b>|</b> CV <b>|</b> ML <b>|</b> AI <b>|</b> ☁️ <!--<b>|</b> CyberSecurity <b>|</b> </p>-->
 
 <p align=center>
-  <a href=https://www.python.org/                        target=_blank rel=noreferrer><img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg     width=35  height=35              alt=Python/>
-  <a href=https://www.w3.org/Style/CSS/                  target=_blank rel=noreferrer><img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg       width=35  height=35              alt=CSS/>
-  <a href=https://www.oracle.com/developer/javascript/   target=_blank rel=noreferrer><img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg width=35  height=35              alt=JavaScript/>
-  <a href=https://html.spec.whatwg.org/                  target=_blank rel=noreferrer><img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg      width=35  height=35              alt=HTML/>
-  <a href=https://www.r-project.org                      target=_blank rel=noreferrer><img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang.svg              width=35  height=35              alt=R/>
+    <a href=https://www.python.org/                      target=_blank rel=noreferrer><img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg     width=35  height=35              alt=Python/>
+    <a href=https://www.w3.org/Style/CSS/                target=_blank rel=noreferrer><img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg       width=35  height=35              alt=CSS/>
+    <a href=https://www.oracle.com/developer/javascript/ target=_blank rel=noreferrer><img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg width=35  height=35              alt=JavaScript/>
+    <a href=https://html.spec.whatwg.org/                target=_blank rel=noreferrer><img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg      width=35  height=35              alt=HTML/>
+    <a href=https://www.r-project.org                    target=_blank rel=noreferrer><img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang.svg              width=35  height=35              alt=R/>
  <br>
-  <a href=https://www.tensorflow.org/                    target=_blank rel=noreferrer><img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg width=35  height=35              alt=TensorFlow/>
+    <a href=https://www.tensorflow.org/                  target=_blank rel=noreferrer><img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg width=35  height=35              alt=TensorFlow/>
+<!--<a href=https://react.dev/                           target=_blank rel=noreferrer><img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg      width=35  height=35              alt=ReAct/>-->
 </p>
 
 <img align=right src='https://github-readme-stats.vercel.app/api/?username=kauefs&count_private=true&layout=compact&show_icons=true&theme=blue-green&custom_title=Stats&rank_icon=github' alt=stats/>
@@ -65,12 +66,12 @@ Here are some ideas to get you started:
 **StreamLit DashBoards**
 * [Brazil 🇧🇷 International Tourist Arrivals](https://tourismbr.streamlit.app/)
 * [In Search of a Warming!                 ](https://warming.streamlit.app/)
-* [COVID19 in Brazil                   ](https://covid19br.streamlit.app/)
+* [COVID19 in Brazil                       ](https://covid19br.streamlit.app/)
 * [COVID19                                 ](https://covid19charts.streamlit.app/)
 * [Inside Sydney Airbnb                    ](https://sydney.streamlit.app/)
 * [Stocks                                  ](https://sto-cks.streamlit.app/)
 * [Uber NYC                                ](https://ubernyc.streamlit.app/)
-* [Accidents in SP                       ](https://accidentssp.streamlit.app/)
+* [Accidents in SP                         ](https://accidentssp.streamlit.app/)
 * [Sao Paulo Criminality                   ](https://criminality.streamlit.app/)
 * [DEMO                                    ](https://daemon.streamlit.app/)
 
