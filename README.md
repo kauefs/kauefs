@@ -51,11 +51,16 @@ Here are some ideas to get you started:
 </div>
 
 <div align=center>
-<img align=left  src='https://github-readme-stats.vercel.app/api/?username=kauefs&count_private=true&layout=compact&show_icons=true&theme=blue-green&custom_title=Stats&rank_icon=github&hide_border=true&border_radius=35&card_width=465' alt=stats/>
+<img align=left  src='https://github-readme-stats.vercel.app/api/?username=kauefs&count_private=true&layout=compact&show_icons=true&theme=blue-green&custom_title=Stats&rank_icon=github&hide_border=true&border_radius=35&card_width=400' alt=stats/>
 <img align=right src='https://github-readme-streak-stats.herokuapp.com?user=kauefs&theme=dark&hide_border=true&border_radius=35&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500&card_height=200&background=000000&stroke=F0F0F0&fire=00FF00&ring=00BFFF&currStreakNum=6595EE&currStreakLabel=00FFFF&dates=C0C0C0&sideNums=F0F0F0&sideLabels=F0F0F0' alt='GitHubStreak'/>
 </div>
 
-## <b>Projects</b>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+
+## Projects
 
 <!--*-->
 **Colab Jupyter NoteBooks**
@@ -83,6 +88,7 @@ Here are some ideas to get you started:
 **Web Pages ProtoTypes**
 * [PicPostMe                               ](https://picpostme.vercel.app/)
 * [Vermeer                                 ](https://vermeer.vercel.app/)
+
 
 <img    src='https://github-readme-activity-graph.vercel.app/graph?username=kauefs&theme=react-dark&custom_title=Activity&line=6595EE&point=6595EE&hide_border=true&radius=16&height=300&grid=false&order=5' alt=activities/>
 
