@@ -34,26 +34,27 @@ Here are some ideas to get you started:
 <div   align=center>
     <img alt='computer illustration' src=https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png>
 </div>
-<!--<p align=center>👨🏻‍💻</p>-->
-<p align=center>👨🏻‍💻 <b>|</b> DS <b>|</b> CV <b>|</b> ML <b>|</b> AI <b>|</b> ☁️ <!--<b>|</b> CyberSecurity <b>|</b> </p>-->
+<div align=center>
+<p>👨🏻‍💻 <b>|</b> DS <b>|</b> CV <b>|</b> ML <b>|</b> AI <b>|</b> ☁️</p>
 
-<p    align=center>
-    <a href=https://www.python.org/                      target=_blank rel=noreferrer><img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg            width=35  height=35       alt=Python/>
-    <a href=https://code.visualstudio.com/               target=_blank rel=noreferrer><img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg  width=35  height=35       alt=vsCode/>
-    <a href=https://www.tensorflow.org/                  target=_blank rel=noreferrer><img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg        width=35  height=35       alt=TensorFlow/>
-    <a href=https://www.r-project.org                    target=_blank rel=noreferrer><img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang.svg                     width=35  height=35       alt=R/>
+<p>
+    <a href=https://www.python.org/                      target=_blank rel=noreferrer><img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg            width=35  height=35       alt=Python />
+    <a href=https://code.visualstudio.com/               target=_blank rel=noreferrer><img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg  width=35  height=35       alt=vsCode />
+    <a href=https://www.tensorflow.org/                  target=_blank rel=noreferrer><img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg        width=35  height=35       alt=TensorFlow />
+    <a href=https://www.r-project.org                    target=_blank rel=noreferrer><img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang.svg                     width=35  height=35       alt=R />
  <br>
-    <a href=https://www.oracle.com/developer/javascript/ target=_blank rel=noreferrer><img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg        width=35  height=35       alt=JavaScript/>
-    <a href=https://www.w3.org/Style/CSS/                target=_blank rel=noreferrer><img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg              width=35  height=35       alt=CSS/>
-    <a href=https://html.spec.whatwg.org/                target=_blank rel=noreferrer><img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg             width=35  height=35       alt=HTML/>
-    <a href=https://react.dev/                           target=_blank rel=noreferrer><img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg             width=35  height=35       alt=ReAct/>
+    <a href=https://www.oracle.com/developer/javascript/ target=_blank rel=noreferrer><img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg        width=35  height=35       alt=JavaScript />
+    <a href=https://www.w3.org/Style/CSS/                target=_blank rel=noreferrer><img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg              width=35  height=35       alt=CSS />
+    <a href=https://html.spec.whatwg.org/                target=_blank rel=noreferrer><img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg             width=35  height=35       alt=HTML />
+    <a href=https://react.dev/                           target=_blank rel=noreferrer><img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg             width=35  height=35       alt=ReAct />
 </p>
+</div>
 
 ##
 
 <div align=center>
-<img align=left  src='https://github-readme-stats.vercel.app/api/?username=kauefs&count_private=true&layout=compact&show_icons=true&theme=blue-green&custom_title=Stats&rank_icon=github&hide_border=true' alt=stats/>
-<img align=right src='https://github-readme-streak-stats.herokuapp.com?user=kauefs&theme=dark&hide_border=true&border_radius=35&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500&card_height=200&background=000000&stroke=F0F0F0&fire=00FF00&ring=00BFFF&currStreakNum=6595EE&currStreakLabel=00FFFF&dates=C0C0C0&sideNums=F0F0F0&sideLabels=F0F0F0' alt='GitHubStreak'/>
+    <img align=left  src='https://github-readme-stats.vercel.app/api/?username=kauefs&count_private=true&layout=compact&show_icons=true&theme=blue-green&custom_title=Stats&rank_icon=github&hide_border=true' alt=stats/>
+    <img align=right src='https://github-readme-streak-stats.herokuapp.com?user=kauefs&theme=dark&hide_border=true&border_radius=35&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500&card_height=200&background=000000&stroke=F0F0F0&fire=00FF00&ring=00BFFF&currStreakNum=6595EE&currStreakLabel=00FFFF&dates=C0C0C0&sideNums=F0F0F0&sideLabels=F0F0F0' alt='GitHubStreak'/>
 </div>
 
 <br>
