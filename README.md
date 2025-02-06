@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 * [Sao Paulo Criminality                   ](https://criminality.streamlit.app/)
 * [DEMO                                    ](https://daemon.streamlit.app/)
 
-**Web Pages ProtoTypes**
+**Web Pages MockUp/ProtoTypes**
 * [SpotiFy                                 ](https://spotyfi.vercel.app/)
 * [PicPostMe                               ](https://picpostme.vercel.app/)
 * [Vermeer                                 ](https://vermeer.vercel.app/)
