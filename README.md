@@ -82,6 +82,7 @@ Here are some ideas to get you started:
 * [DEMO                                    ](https://daemon.streamlit.app/)
 
 **Web Pages ProtoTypes**
+* [SpotiFy                                 ](https://spotyfi.vercel.app/)
 * [PicPostMe                               ](https://picpostme.vercel.app/)
 * [Vermeer                                 ](https://vermeer.vercel.app/)
 
