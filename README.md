@@ -55,10 +55,6 @@ Here are some ideas to get you started:
     <img align=right  src='https://github-readme-streak-stats.herokuapp.com?user=kauefs&theme=dark&hide_border=true&border_radius=35&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=450&card_height=200&background=000000&stroke=F0F0F0&fire=00FF00&ring=00BFFF&currStreakNum=6595EE&currStreakLabel=00FFFF&dates=C0C0C0&sideNums=F0F0F0&sideLabels=F0F0F0' alt='GitHubStreak'/>
 </div>
 
-<br><br>
-<br><br>
-<br><br>
-<br><br>
 
 ## Projects
 
