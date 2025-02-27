@@ -49,6 +49,8 @@ Here are some ideas to get you started:
     <a href=https://html.spec.whatwg.org/                target=_blank rel=noreferrer><img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg             width=35  height=35       alt=HTML       />
     <a href=https://nodejs.org/                          target=_blank rel=noreferrer><img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg            width=35  height=35       alt=NodeJS     />
     <a href=https://react.dev/                           target=_blank rel=noreferrer><img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg             width=35  height=35       alt=ReAct      />
+    <a href=https://www.djangoproject.com/               target=_blank rel=noreferrer><img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg            width=35  height=35       alt=dJango     />
+
 </p>
 </div>
 
