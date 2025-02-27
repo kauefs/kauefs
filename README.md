@@ -47,8 +47,8 @@ Here are some ideas to get you started:
     <a href=https://www.oracle.com/developer/javascript/ target=_blank rel=noreferrer><img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg        width=35  height=35       alt=JavaScript />
     <a href=https://www.w3.org/Style/CSS/                target=_blank rel=noreferrer><img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg              width=35  height=35       alt=CSS        />
     <a href=https://html.spec.whatwg.org/                target=_blank rel=noreferrer><img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg             width=35  height=35       alt=HTML       />
-    <a href=https://react.dev/                           target=_blank rel=noreferrer><img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg             width=35  height=35       alt=ReAct     />
-    <a href=https://react.dev/                           target=_blank rel=noreferrer><img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg             width=35  height=35       alt=NodeJS     />
+    <a href=https://nodejs.org/                          target=_blank rel=noreferrer><img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg            width=35  height=35       alt=NodeJS     />
+    <a href=https://react.dev/                           target=_blank rel=noreferrer><img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg             width=35  height=35       alt=ReAct      />
 </p>
 </div>
 
