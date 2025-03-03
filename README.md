@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 
 <!--*-->
 **Colab Jupyter NoteBooks**
-<!--* [Open Street Map             (OSMnx)     ](https://colab.research.google.com/github/kauefs/DS/blob/%40/notebooks/OSM.ipynb)-->
+* [Open Street Map             (OSMnx)     ](https://colab.research.google.com/drive/13Kj960k52Uk0T3iD6rmeU3P7PqjJN9i5?usp=sharing)
 * [Sydney Ferries NetWork      (GTFS)      ](https://colab.research.google.com/github/kauefs/DS/blob/%40/notebooks/GTFS.ipynb)
 * [Churn Prediction                        ](https://colab.research.google.com/github/kauefs/ML/blob/%40/notebooks/Churn.ipynb)
 * [Credit Card Fraud Detection (CCFD)      ](https://colab.research.google.com/github/kauefs/ML/blob/%40/notebooks/CCFD.ipynb)
