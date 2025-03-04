@@ -97,7 +97,7 @@ Here are some ideas to get you started:
 
 <div  align=center>
   
-![visitors     ](https://vbr.nathanchung.dev/badge?page_id=kauefs&lcolor=000000&color=000000&style=plastic&logo=Github&logoColor=FFFFFF&hit=false)
+![visitors     ](https://vbr.nathanchung.dev/badge?page_id=kauefs&lcolor=000000&color=000000&style=plastic&logo=Github&logoColor=FFFFFF&hit=true)
 
 [![ƊⱭȾɅViƧi🧿Ƞ](https://img.shields.io/badge/ƊⱭȾɅViƧi🧿Ƞ&trade;-0065FF?style=plastic&logoColor=0065FF&label=&copy;2025&labelColor=0065FF)](https://datavision.one/)
 
