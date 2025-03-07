@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 <div   align=center>
     <img alt='computer illustration' src=https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png>
 </div>
+
 <div align=center>
 <p>👨🏻‍💻 <b>|</b> DS <b>|</b> CV <b>|</b> ML <b>|</b> AI <b>|</b> ☁️</p>
-
 <p>
     <a href=https://www.python.org/                      target=_blank rel=noreferrer><img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg            width=35  height=35       alt=Python     />
     <a href=https://code.visualstudio.com/               target=_blank rel=noreferrer><img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg  width=35  height=35       alt=vsCode     />
@@ -50,7 +50,6 @@ Here are some ideas to get you started:
     <a href=https://nodejs.org/                          target=_blank rel=noreferrer><img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg            width=35  height=35       alt=NodeJS     />
     <a href=https://react.dev/                           target=_blank rel=noreferrer><img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg             width=35  height=35       alt=ReAct      />
     <a href=https://www.djangoproject.com/               target=_blank rel=noreferrer><img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg            width=35  height=35       alt=dJango     />
-
 </p>
 </div>
 
@@ -59,13 +58,17 @@ Here are some ideas to get you started:
     <img align=right  src='https://github-readme-streak-stats.herokuapp.com?user=kauefs&theme=dark&hide_border=true&border_radius=35&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=450&card_height=200&background=000000&stroke=F0F0F0&fire=00FF00&ring=00BFFF&currStreakNum=6595EE&currStreakLabel=00FFFF&dates=C0C0C0&sideNums=F0F0F0&sideLabels=F0F0F0' alt='GitHubStreak'/>
 </div>
 
+<br><br>
+<br><br>
+<br><br>
+<br><br>
 
 ## Projects
 
 <!--*-->
 **Colab Jupyter NoteBooks**
-* [Open Street Map             (OSMnx)     ](https://colab.research.google.com/drive/1Deson7OYimEV_6LkzXWj-rvdL9RpO02d?usp=sharing)
-* [Sydney Ferries NetWork      (GTFS)      ](https://colab.research.google.com/github/kauefs/DS/blob/%40/notebooks/GTFS.ipynb)
+* [OSMnx: Open   Street  Map               ](https://colab.research.google.com/drive/1Deson7OYimEV_6LkzXWj-rvdL9RpO02d?usp=sharing)
+* [ GTFS: Sydney Ferries NetWork           ](https://colab.research.google.com/github/kauefs/DS/blob/%40/notebooks/GTFS.ipynb)
 * [Churn Prediction                        ](https://colab.research.google.com/github/kauefs/ML/blob/%40/notebooks/Churn.ipynb)
 * [Credit Card Fraud Detection (CCFD)      ](https://colab.research.google.com/github/kauefs/ML/blob/%40/notebooks/CCFD.ipynb)
 * [Boston Housing                          ](https://colab.research.google.com/github/kauefs/ML/blob/%40/notebooks/BostonHousing.ipynb)
