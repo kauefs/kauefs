@@ -95,6 +95,9 @@ Here are some ideas to get you started:
 * [PicPostMe                               ](https://picpostme.vercel.app/)
 * [Vermeer                                 ](https://vermeer.vercel.app/)
 
+**Web Games (DEMO)**
+* [The Wall                                ](https://codepen.io/datavision/full/YPzgYvm)
+* [Avengers: Civil War                     ](https://codepen.io/datavision/full/EaxMoRe)
 
 <img    src='https://github-readme-activity-graph.vercel.app/graph?username=kauefs&theme=react-dark&custom_title=Activity&line=6595EE&point=6595EE&hide_border=true&radius=16&height=300&grid=false&order=5' alt=activities/>
 
