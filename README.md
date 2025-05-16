@@ -79,6 +79,7 @@ Here are some ideas to get you started:
 * [Deep Learning **&** Fashion             ](https://colab.research.google.com/github/kauefs/ML/blob/%40/notebooks/FashionMNIST.ipynb)
 
 **StreamLit DashBoards**
+* [ƊⱭȾɅViƧi🧿Ƞ&trade; ViƧi🧿Ƞ ƊⱭȾɅ ChatBot](https://datavision-chatbot.streamlit.app)
 * [Brazil 🇧🇷 International Tourist Arrivals](https://tourismbr.streamlit.app/)
 * [In Search of a Warming!                 ](https://warming.streamlit.app/)
 * [COVID19 in Brazil                       ](https://covid19br.streamlit.app/)
