@@ -92,9 +92,9 @@ Here are some ideas to get you started:
 * [DEMO                                    ](https://daemon.streamlit.app/)
 
 **Web Pages MockUp/ProtoTypes**
-* [SpotiFy                                 ](https://spotyfi.vercel.app/)
 * [PicPostMe                               ](https://picpostme.vercel.app/)
 * [Vermeer                                 ](https://vermeer.vercel.app/)
+* [SpotiFy                                 ](https://spotyfi.vercel.app/)
 
 **Web Games (DEMO)**
 * [The Wall                                ](https://codepen.io/datavision/full/YPzgYvm)
