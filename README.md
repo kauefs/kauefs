@@ -66,8 +66,8 @@ Here are some ideas to get you started:
 ## Projects
 
 <!--*-->
-<!--**Computer Vision**
-* [Chroma-Key/GreenScreening               ](https://colab.research.google.com/github/kauefs/CV/blob/%40/notebooks/ChromaKey.ipynb)-->
+**Computer Vision**
+* [Chroma-Key/GreenScreening               ](https://colab.research.google.com/github/kauefs/CV/blob/%40/notebooks/ChromaKey.ipynb)
 
 **Colab Jupyter NoteBooks**
 * [OSMnx: Open   Street  Map               ](https://colab.research.google.com/drive/1Deson7OYimEV_6LkzXWj-rvdL9RpO02d?usp=sharing)
