@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 -->
 # <p align=center><font color=#F0F0F0 font-family=Georgia><ins>ƊⱭȾɅViƧi&#x1F9FF;Ƞ</ins>&trade;</font></p>
 
-<div align=center>
-    <img src='https://capsule-render.vercel.app/api?type=waving&color=0065FF&height=100&section=head' width=100%/>
+<div align= center>
+<img   src='https://capsule-render.vercel.app/api?type=waving&color=0065FF&height=100&section=head' width=100% />
 </div>
 
 <img align=right alt=langs src='https://github-readme-stats.vercel.app/api/top-langs/?username=kauefs&count_private=true&layout=compact&hide=html&theme=blue-green&custom_title=Languages&hide_border=true'/>
@@ -66,6 +66,9 @@ Here are some ideas to get you started:
 ## Projects
 
 <!--*-->
+<!--**Computer Vision**
+* [Chroma-Key/GreenScreening               ](https://colab.research.google.com/github/kauefs/CV/blob/%40/notebooks/ChromaKey.ipynb)-->
+
 **Colab Jupyter NoteBooks**
 * [OSMnx: Open   Street  Map               ](https://colab.research.google.com/drive/1Deson7OYimEV_6LkzXWj-rvdL9RpO02d?usp=sharing)
 * [ GTFS: Sydney Ferries NetWork           ](https://colab.research.google.com/github/kauefs/DS/blob/%40/notebooks/GTFS.ipynb)
