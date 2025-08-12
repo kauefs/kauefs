@@ -76,8 +76,8 @@ Here are some ideas to get you started:
 * [Credit Card Fraud Detection (CCFD)      ](https://colab.research.google.com/github/kauefs/ML/blob/%40/notebooks/CCFD.ipynb)
 * [Boston Housing                          ](https://colab.research.google.com/github/kauefs/ML/blob/%40/notebooks/BostonHousing.ipynb)
 * [Auto Machine Learning: Time Series      ](https://colab.research.google.com/github/kauefs/ML/blob/%40/notebooks/TimeSeriesAutoML.ipynb)
-* [Auto Machine Learning: Classification   ](https://colab.research.google.com/github/kauefs/ML/blob/%40/notebooks/ClassificationAutoML.ipynb)
 * [Auto Machine Learning: Regression       ](https://colab.research.google.com/github/kauefs/ML/blob/%40/notebooks/RegressionAutoML.ipynb)
+* [Auto Machine Learning: Classification   ](https://colab.research.google.com/github/kauefs/ML/blob/%40/notebooks/ClassificationAutoML.ipynb)
 * [Fake News        Classifier             ](https://colab.research.google.com/github/kauefs/ML/blob/%40/notebooks/FakeNews.ipynb)
 * [Deep Learning **&** Fashion             ](https://colab.research.google.com/github/kauefs/ML/blob/%40/notebooks/FashionMNIST.ipynb)
 
