@@ -89,7 +89,7 @@ Here are some ideas to get you started:
 * [COVID19 in Brazil                       ](https://covid19br.streamlit.app/)
 * [COVID19                                 ](https://covid19charts.streamlit.app/)
 * [Inside Sydney Airbnb                    ](https://sydney.streamlit.app/)
-* [Stocks                                  ](https://sto-cks.streamlit.app/)
+* [Stocks                                  ](https://yfstocks.streamlit.app/)
 * [Uber NYC                                ](https://ubernyc.streamlit.app/)
 * [Accidents in SP                         ](https://accidentssp.streamlit.app/)
 * [Sao Paulo Criminality                   ](https://criminality.streamlit.app/)
