@@ -67,9 +67,8 @@ Here are some ideas to get you started:
 
 <!--*-->
 **Computer Vision**
+<!--* [Transfer Learning                       ](https://colab.research.google.com/github/kauefs/DIO/blob/%40/notebooks/TransferLearning.ipynb)-->
 * [Chroma-Key (GreenScreen)                ](https://colab.research.google.com/github/kauefs/CV/blob/%40/notebooks/ChromaKey.ipynb)
-* [Transfer Learning with PyTorch          ](https://colab.research.google.com/github/kauefs/DIO/blob/%40/notebooks/TransferLearningPyTorch.ipynb)
-* [Transfer Learning with Keras            ](https://colab.research.google.com/github/kauefs/DIO/blob/%40/notebooks/TransferLearningKeras.ipynb)
 
 **Colab Jupyter NoteBooks**
 * [OSMnx: Open   Street  Map               ](https://colab.research.google.com/drive/1Deson7OYimEV_6LkzXWj-rvdL9RpO02d?usp=sharing)
