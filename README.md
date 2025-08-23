@@ -68,6 +68,7 @@ Here are some ideas to get you started:
 <!--*-->
 **Computer Vision**
 * [Chroma-Key (GreenScreen)                ](https://colab.research.google.com/github/kauefs/CV/blob/%40/notebooks/ChromaKey.ipynb)
+* [Transfer Learning with PyTorch          ](https://colab.research.google.com/github/kauefs/DIO/blob/%40/notebooks/TransferLearningPyTorch.ipynb)
 * [Transfer Learning with Keras            ](https://colab.research.google.com/github/kauefs/DIO/blob/%40/notebooks/TransferLearningKeras.ipynb)
 
 **Colab Jupyter NoteBooks**
