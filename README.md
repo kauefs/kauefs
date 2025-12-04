@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kauefs&theme=blue-green)]
 [![Stats](https://github-readme-stats.vercel.app/api?username=kauefs&theme=blue-green)]
 -->
-# <p align=center><font color=#F0F0F0 font-family=Georgia><ins>ƊⱭȾɅViƧi&#x1F9FF;Ƞ</ins>&trade;</font></p>
+# <p align=center style='color:#F0F0F0;font-family:Georgia;'><ins>ƊⱭȾɅViƧi&#x1F9FF;Ƞ</ins>&trade;</p>
 
 <div align= center>
 <img   src='https://capsule-render.vercel.app/api?type=waving&color=0065FF&height=100&section=head' width=100% />
