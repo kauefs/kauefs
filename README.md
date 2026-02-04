@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # <p align=center style='color:#F0F0F0;font-family:Georgia;'><ins>ƊⱭȾɅViƧi&#x1F9FF;Ƞ</ins>&trade;</p>
 
 <div align= center>
-<img   src='https://capsule-render.vercel.app/api?type=waving&color=0065FF&height=100&section=head' width=100% />
+<!-- <img   src='https://capsule-render.vercel.app/api?type=waving&color=0065FF&height=100&section=head' width=100% /> -->
 </div>
 
 <img align=right alt=langs src='https://datavision-github-stats.vercel.app/api/top-langs/?username=kauefs&count_private=true&layout=compact&hide=html&theme=blue-green&custom_title=Languages&hide_border=true&hide_progress=true'/>
