@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align=center>
-<p>👨🏻‍💻 <b>|</b> DS <b>|</b> CV <b>|</b> ML <b>|</b> AI <b>|</b> ☁️</p>
+<p>👨🏻‍💻 <b>|</b> DS <b>|</b> CV <b>|</b> ML/DL <b>|</b> AI <b>|</b> ☁️</p>
 <p>
     <a href=https://www.python.org/                      target='_blank' rel='noopener noreferrer'><img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg            width=35  height=35       alt=Python     />
     <a href=https://code.visualstudio.com/               target='_blank' rel='noopener noreferrer'><img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg  width=35  height=35       alt=vsCode     />
