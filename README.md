@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 [![Python               ](https://img.shields.io/badge/3-646464?logo=python&logoColor=FFDE57&labelColor=4584B6&color=646464)](https://www.python.org/)<br>
 [![Contributions Welcome](https://img.shields.io/badge/Welcome-4CAF50?logo=apple&logoColor=FFFFFF&label=Contributions&labelColor=6D6E71)](https://github.com/kauefs/portfolio/issues)
 
-![ƊⱭȾɅViƧi🧿Ƞ          ](https://raw.githubusercontent.com/kauefs/StreamLit/%40/img/DataVision3.png)
+![ƊⱭȾɅViƧi🧿Ƞ          ](https://raw.githubusercontent.com/kauefs/StreamLit/%40/img/DataVisionEye.png)
 
 <div   align=center>
     <img alt='computer illustration' src=https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png>
