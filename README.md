@@ -13,15 +13,14 @@ Here are some ideas to get you started:
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kauefs&theme=blue-green)]
 [![Stats](https://github-readme-stats.vercel.app/api?username=kauefs&theme=blue-green)]
 -->
-# <p align=center style='color:#F0F0F0;font-family:Georgia;'><ins>ƊⱭȾɅViƧi&#x1F9FF;Ƞ</ins>&trade;</p>
 
 <div align=center>
+<h1><font face=Georgia><b><ins>ƊⱭȾɅViƧi&#x1F9FF;Ƞ</ins>&trade;</b></font><h1>
+
+<!--# <p align=center><ins>ƊⱭȾɅViƧi&#x1F9FF;Ƞ</ins>&trade;</p>-->
 
 ![AIaaS](https://img.shields.io/badge/Artificial_Intelligence_as_a_Service-000000?style=plastic)
 
-</div>
-
-<div align= center>
 <img   src='https://capsule-render.vercel.app/api?type=waving&color=0065FF&height=100&section=head' width=100% />
 </div>
 
