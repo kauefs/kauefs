@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 -->
 # <p align=center style='color:#F0F0F0;font-family:Georgia;'><ins>ƊⱭȾɅViƧi&#x1F9FF;Ƞ</ins>&trade;</p>
 
+<div align=center>
+
+![AIaaS](https://img.shields.io/badge/Artificial_Intelligence_as_a_Service-000000?style=plastic)
+
+</div>
+
 <div align= center>
 <img   src='https://capsule-render.vercel.app/api?type=waving&color=0065FF&height=100&section=head' width=100% />
 </div>
