@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <!--# <p align=center><ins>ƊⱭȾɅViƧi&#x1F9FF;Ƞ</ins>&trade;</p>-->
 
-![AIaaS](https://img.shields.io/badge/Artificial_Intelligence_as_a_Service-000000?style=plastic)
+[![AIaaS                ](https://img.shields.io/badge/Artificial_Intelligence_as_a_Service-FFFFFF?style=plastic&label=ƊⱭȾɅViƧi&#x1F9FF;Ƞ&trade;&labelColor=0065FF)](https://datavision.one/)
 
 <img   src='https://capsule-render.vercel.app/api?type=waving&color=0065FF&height=100&section=head' width=100% />
 </div>
