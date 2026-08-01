@@ -80,6 +80,7 @@ Here are some ideas to get you started:
 * [OSMnx: Open   Street  Map               ](https://colab.research.google.com/drive/1Deson7OYimEV_6LkzXWj-rvdL9RpO02d?usp=sharing)
 * [ GTFS: Sydney Ferries NetWork           ](https://colab.research.google.com/github/kauefs/DS/blob/%40/notebooks/GTFS.ipynb)
 * [Churn Prediction                        ](https://colab.research.google.com/github/kauefs/ML/blob/%40/notebooks/Churn.ipynb)
+* [Credit Risk                 (XGBoost)   ](https://colab.research.google.com/github/kauefs/ML/blob/%40/notebooks/CreditRisk.ipynb)
 * [Credit Card Fraud Detection (CCFD)      ](https://colab.research.google.com/github/kauefs/ML/blob/%40/notebooks/CCFD.ipynb)
 * [Boston Housing                          ](https://colab.research.google.com/github/kauefs/ML/blob/%40/notebooks/BostonHousing.ipynb)
 * [Auto Machine Learning: Time Series      ](https://colab.research.google.com/github/kauefs/ML/blob/%40/notebooks/TimeSeriesAutoML.ipynb)
