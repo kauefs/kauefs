@@ -77,6 +77,9 @@ Here are some ideas to get you started:
 * [Chroma-Key (GreenScreen)                ](https://colab.research.google.com/github/kauefs/CV/blob/%40/notebooks/ChromaKey.ipynb)
 
 **Colab Jupyter NoteBooks**
+
+![Colab](https://colab.research.google.com/assets/colab-badge.svg)
+
 * [OSMnx: Open   Street  Map               ](https://colab.research.google.com/drive/1Deson7OYimEV_6LkzXWj-rvdL9RpO02d?usp=sharing)
 * [ GTFS: Sydney Ferries NetWork           ](https://colab.research.google.com/github/kauefs/DS/blob/%40/notebooks/GTFS.ipynb)
 * [Churn Prediction                        ](https://colab.research.google.com/github/kauefs/ML/blob/%40/notebooks/Churn.ipynb)
