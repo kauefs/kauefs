@@ -107,8 +107,9 @@ Here are some ideas to get you started:
 * [DEMO                                    ](https://daemon.streamlit.app/)
 
 **LovAble**
-*  Landing  Page
 * Book Club Page
+*  Floor    Plan Project
+*  Landing  Page
 
 **Web Pages MockUp/ProtoTypes**
 * [PicPostMe                               ](https://picpostme.vercel.app/)
