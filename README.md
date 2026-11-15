@@ -89,7 +89,7 @@ Here are some ideas to get you started:
 * [Fake News        Classifier             ](https://colab.research.google.com/github/kauefs/ML/blob/%40/notebooks/FakeNews.ipynb)
 * [Deep Learning **&** Fashion             ](https://colab.research.google.com/github/kauefs/ML/blob/%40/notebooks/FashionMNIST.ipynb)
 
-**StreamLit DashBoards**
+[![StreamLit](https://img.shields.io/badge/DashBoards-FAFAFA?style=flat&logo=streamlit&logoColor=FF4B4B&label=StreamLit&labelColor=FAFAFA&color=FAFAFA)](https://streamlit.io)
 * [ƊⱭȾɅViƧi🧿Ƞ&trade; ViƧi🧿Ƞ ƊⱭȾɅ ChatBot](https://datavision-chatbot.streamlit.app)
 * [Brazil 🇧🇷 International Tourist Arrivals](https://tourismbr.streamlit.app/)
 * [Data Area Salaries DashBoard            ](https://datasalaries.streamlit.app/)
@@ -102,6 +102,10 @@ Here are some ideas to get you started:
 * [Accidents in SP                         ](https://accidentssp.streamlit.app/)
 * [Sao Paulo Criminality                   ](https://criminality.streamlit.app/)
 * [DEMO                                    ](https://daemon.streamlit.app/)
+
+**LovAble**
+*  Landing  Page
+* Book Club Page
 
 **Web Pages MockUp/ProtoTypes**
 * [PicPostMe                               ](https://picpostme.vercel.app/)
