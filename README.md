@@ -107,9 +107,9 @@ Here are some ideas to get you started:
 * [DEMO                                    ](https://daemon.streamlit.app/)
 
 **LovAble**
-* Book Club Page
-*  Floor    Plan Project
-*  Landing  Page
+* [Book Club Demo Page](https://demobookclub.lovable.app/)
+*  Floor Plan Private Project
+* [ƊⱭȾɅViƧi🧿Ƞ&trade;](https://datavisionone.lovable.app)
 
 **Web Pages MockUp/ProtoTypes**
 * [PicPostMe                               ](https://picpostme.vercel.app/)
