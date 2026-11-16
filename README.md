@@ -111,7 +111,7 @@ Here are some ideas to get you started:
 *  Floor Plan Private Project
 * [ƊⱭȾɅViƧi🧿Ƞ&trade;](https://datavisionone.lovable.app)
 
-**Web Pages MockUp/ProtoTypes**
+**Web Pages MockUp/Demo**
 * [PicPostMe                               ](https://picpostme.vercel.app/)
 * [Vermeer                                 ](https://vermeer.vercel.app/)
 * [SpotiFy                                 ](https://spotyfi.vercel.app/)
