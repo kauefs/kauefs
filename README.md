@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 -->
 
 <div align=center>
-<h1><font face=Georgia><b><ins>ƊⱭȾɅViƧi&#x1F9FF;Ƞ</ins>&trade;</b></font><h1>
 
-<!--# <p align=center><ins>ƊⱭȾɅViƧi&#x1F9FF;Ƞ</ins>&trade;</p>-->
+# <p align=center><ins>ƊⱭȾɅViƧi&#x1F9FF;Ƞ</ins>&trade;</p>
 
 [![AIaaS                ](https://img.shields.io/badge/Artificial_Intelligence_as_a_Service-FFFFFF?style=plastic&label=ƊⱭȾɅViƧi&#x1F9FF;Ƞ&trade;&labelColor=0065FF)](https://datavision.one/)
 
 <img   src='https://capsule-render.vercel.app/api?type=waving&color=0065FF&height=100&section=head' width=100% />
+
 </div>
 
 <img align=right alt=langs src='https://datavision-github-stats.vercel.app/api/top-langs/?username=kauefs&count_private=true&layout=compact&hide=html&theme=blue-green&custom_title=Languages&hide_border=true&hide_progress=true'/>
