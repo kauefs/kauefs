@@ -108,8 +108,8 @@ Here are some ideas to get you started:
 
 **LovAble**
 * [Book Club Demo ShowCase](https://demobookclub.lovable.app/)
-*  Floor Plan Private Project
 * [ƊⱭȾɅViƧi🧿Ƞ&trade;    ](https://datavisionone.lovable.app)
+* Floor Plan Private Project
 
 **Web Pages MockUp/Demo**
 * [PicPostMe                               ](https://picpostme.vercel.app/)
