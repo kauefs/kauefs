@@ -107,8 +107,8 @@ Here are some ideas to get you started:
 * [DEMO                                    ](https://daemon.streamlit.app/)
 
 **LovAble**
-* [Book Club Demo ShowCase](https://demobookclub.lovable.app/)
-* [ƊⱭȾɅViƧi🧿Ƞ&trade;    ](https://datavisionone.lovable.app)
+* [Book Club InterActive ShowCase](https://demobookclub.lovable.app/)
+* [ƊⱭȾɅViƧi🧿Ƞ&trade;           ](https://datavisionone.lovable.app)
 * Floor Plan Private Project
 
 **Web Pages MockUp/Demo**
